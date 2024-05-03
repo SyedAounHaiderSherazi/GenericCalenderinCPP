@@ -1,3 +1,5 @@
+![Calander](https://github.com/SyedAounHaiderSherazi/GenericCalenderinCPP/assets/168753404/944a6c10-0bbe-45df-a55f-13109251e253)
+
 Question 1. Write a C++ function to print the calendar of a given year. The function takes
 the year as input. For example,
 Note that in this example, the months have been shown in three columns. You can print all
